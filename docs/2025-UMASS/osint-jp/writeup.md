@@ -10,6 +10,7 @@ Flag format: UMASS{name of the game in English}, for example UMASS{Elden Ring}_
 My initial approach was...
 
 Well, my initial approach was to submit `UMASS{Elden Ring}` because what if, lmao. After that, my initial approach was to find the location on Google Maps. From what I read on the UMASS CTF discord, there were four main points in this challenge where people stumbled:
+
 1. Finding the physical location of the building.
 2. Identifying the intended business inside.
 3. Finding which of that business's customers is referenced in the question.
